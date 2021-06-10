@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 <span> <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/> </span>
 <span> <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/> </span>
 <span> <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/> </span>
+<span> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" width="50" height="50"/> </span>
