@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <span> <img src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/> </span>
 <span> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" width="50" height="50"/> </span>
 <span> <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" width="50" height="50"/> </span>
+<span> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" width="50" height="50"/> </span>
 <span> <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=currentColor" width="50" height="50"/> </span>
 <span> <img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" width="50" height="50"/> </span>
 <span> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/> </span>
