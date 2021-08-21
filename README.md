@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: jihye59kang@gmail.com
 - 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/bonniek0827/)
-- ✨ Want to check out my portfolio? Go to 👉🏻 [https://bonniekang.herokuapp.com](https://bonniekang.herokuapp.com/)
+- ✨ Want to check out my portfolio? Go to 👉🏻 [Link](https://bonniekang.herokuapp.com/)
 
 <!--
 **bonniekang/bonniekang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
