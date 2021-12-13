@@ -3,6 +3,7 @@
 - 📫 How to reach me: jihye59kang@gmail.com
 - 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/bonniek0827/)
 - ✨ Want to check out my portfolio? Go to 👉🏻 [Link](https://bonniekang.herokuapp.com/)
+- 📄 Resume in [English](https://bonniekang.herokuapp.com/assets/Bonnie_Kang_CV.pdf) | in [Korean](https://waiting-pig-379.notion.site/b17f907c721f46efbab6c003e99579ca)
 
 <!--
 **bonniekang/bonniekang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
