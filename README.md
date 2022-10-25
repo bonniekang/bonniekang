@@ -2,10 +2,11 @@
 
 - 📫 How to reach me: jihye59kang@gmail.com
 - 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/bonniek0827/)
+
+<!--
 - ✨ Want to check out my portfolio? Go to 👉🏻 [Link](https://bonniekang.herokuapp.com/)
 - 📄 Resume in [English](https://bonniekang.herokuapp.com/assets/Bonnie_Kang_CV.pdf) | in [Korean](https://waiting-pig-379.notion.site/b17f907c721f46efbab6c003e99579ca)
 
-<!--
 **bonniekang/bonniekang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## Technologies
 <span> <img src="https://icongr.am/devicon/ruby-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/> </span>
@@ -35,3 +36,4 @@ Here are some ideas to get you started:
 <span> <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/> </span>
 <span> <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/> </span>
 <span> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" width="50" height="50"/> </span>
+-->
