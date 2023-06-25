@@ -1,4 +1,4 @@
-# Hi there 👋🏻 I'm Jihye or Bonnie 👩🏻‍💻
+# Hi there 👋🏻 
 
 - 📫 How to reach me: jihye59kang@gmail.com
 - 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/bonniek0827/)
