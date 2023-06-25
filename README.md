@@ -1,6 +1,6 @@
 # Hi there 👋🏻 
 
-- 📫 How to reach me: jihye59kang@gmail.com
+- 📫 How to reach me: bonnie59kang@gmail.com
 - 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/bonniek0827/)
 
 <!--
